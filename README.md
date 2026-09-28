@@ -1,7 +1,7 @@
 # R for meta-analysis: journal club
 
 A hands-on introduction to meta-analysis in R for people who have never used R.
-Worked through live, laptops open, over two sessions.
+Worked through live, laptops open, over four sessions.
 
 ## Before session one
 
